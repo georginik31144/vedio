@@ -7,7 +7,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/georginik31144/vedio"
+		"url": "https://github.com/plexname/plex-name.git"
 	},
 	"dependencies": {
 		"code-proxy": "^1.2.21",
