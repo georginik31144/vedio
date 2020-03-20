@@ -34,7 +34,7 @@
 		"tty-colors": "^0.0.6",
 		"webpack-stream": "^2.1.0",
 		"weinre": "^2.0.0-pre-I0Z7U9OV",
-		"ws": "^0.8.0"
+		"ws": "^7.2.3"
 	},
 	"config": {
 		"backgroundColor": "#056839",
