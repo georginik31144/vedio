@@ -29,7 +29,7 @@
 		"gulp-zip": "^3.0.2",
 		"ip": "^0.3.2",
 		"node-static": "^0.7.7",
-		"open": "^0.0.5",
+		"open": "^7.0.3",
 		"ssh2": "^0.4.11",
 		"tty-colors": "^0.0.6",
 		"webpack-stream": "^2.1.0",
